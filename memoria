@@ -1,0 +1,11 @@
+## Volem desplegar dins el cloud d’AWS una BD’s MySQL, un bucket S3 i una instància Linux que faci de broker MQTT per una xarxa IoT de sensors que desplegarem al nostre centre dins la nostra LAN del taller.
+## Tendrem 1 broker exposat al cloud amb IP pública i fent servir el port 1883, una instància de BDs dins una xarxa privada amb i un bucket S3
+
+**ara escrivim amb negreta**
+_ara en cursiva_
+~~ratllat~~
+llistes:
+1. opció1
+2. opció2
+- opció 1
+- opció 2
